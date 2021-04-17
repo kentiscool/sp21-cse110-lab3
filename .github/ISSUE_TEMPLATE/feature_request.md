@@ -1,10 +1,8 @@
 ---
 name: Feature request
-about: HTML
+about: ''
 title: ''
 labels: Feature
 assignees: ''
 
 ---
-
-Clean up HTML to make integrating CSS easier.
